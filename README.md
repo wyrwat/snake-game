@@ -1,2 +1,2 @@
 # snake-game
-snake wtiten in python 
+snake writen in python 
