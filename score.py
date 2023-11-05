@@ -40,6 +40,3 @@ class Score(Turtle):
 
         self.points = 0
         self.update_score()
-
-
-
